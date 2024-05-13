@@ -53,7 +53,7 @@ Clone the repository unto your local machine cd to the folder.
 ## Author
 
 👤 PREETY
-- Github: [@Preetyk26](https://github.com/Preetyk26/weather_app) 
+- Github: [@Preetyk26](https://github.com/Preetyk26/weather_application) 
 
 ## Show your support
 
